@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Assignment2/static/css/main.ab6de136.chunk.css",
+    "main.js": "/React-Assignment2/static/js/main.c16f8dcc.chunk.js",
+    "main.js.map": "/React-Assignment2/static/js/main.c16f8dcc.chunk.js.map",
+    "runtime-main.js": "/React-Assignment2/static/js/runtime-main.ea8a3282.js",
+    "runtime-main.js.map": "/React-Assignment2/static/js/runtime-main.ea8a3282.js.map",
+    "static/js/2.cfa0afd8.chunk.js": "/React-Assignment2/static/js/2.cfa0afd8.chunk.js",
+    "static/js/2.cfa0afd8.chunk.js.map": "/React-Assignment2/static/js/2.cfa0afd8.chunk.js.map",
+    "static/js/3.5fbd3b76.chunk.js": "/React-Assignment2/static/js/3.5fbd3b76.chunk.js",
+    "static/js/3.5fbd3b76.chunk.js.map": "/React-Assignment2/static/js/3.5fbd3b76.chunk.js.map",
+    "index.html": "/React-Assignment2/index.html",
+    "static/css/main.ab6de136.chunk.css.map": "/React-Assignment2/static/css/main.ab6de136.chunk.css.map",
+    "static/js/2.cfa0afd8.chunk.js.LICENSE.txt": "/React-Assignment2/static/js/2.cfa0afd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea8a3282.js",
+    "static/js/2.cfa0afd8.chunk.js",
+    "static/css/main.ab6de136.chunk.css",
+    "static/js/main.c16f8dcc.chunk.js"
+  ]
+}
